@@ -26,6 +26,7 @@ The regression classification was added as a layer to the map, using the defined
 A legend was created to provide information about the AGB density (in Mg/ha) represented by the color gradient. The legend panel included a title, a color gradient image, and text indicating the minimum and maximum values.
 Finally, the map view was centered on the study area boundary, allowing for an overview of the regression classification output and the associated legend.
 AGB density map for Auroville Greenbelt.
+![AGB density map for Auroville Greenbelt.](https://github.com/failed-wizard/Navavishkar-in-Google-Earth-Engine/blob/main/google_img.png)
 
 ### **4 Estimating the trained model performance**
 In this step, we evaluated the performance and accuracy of the random forest (RF) model. We first used the .explain() method on the trained RF model to compute variable importance and obtain model training statistics.
